@@ -4,7 +4,7 @@
 - 🌍  I'm based in Istanbul, Turkey
 - 🌱  I’m currently learning everything
 - ✉️  You can contact me at [mertbesirli.228@gmail.com](mailto:mertbesirli.228@gmail.com)
-- 🧠  I'm learning C++17, C++20, Rust and Spanish, developing English
+- 🧠  I'm learning Spanish, developing English
 
 ### Connect with me
 <p align="left"> <a href="https://github.com/mertbesirli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
