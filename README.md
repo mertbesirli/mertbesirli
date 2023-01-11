@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Can Beşirli</h1>
-<h3 align="center">A passionate Software Engineer from Istanbul, Turkey.</h3>
+<h3 align="center">A passionate Backend Developer from Istanbul, Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertbesirli&label=Profile%20views&color=0e75b6&style=flat" alt="mertbesirli" /> </p>
 
