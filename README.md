@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [mertbesirli.228@gmail.com](mailto:mertbesirli.228@gmail.com)
-* 🧠  I'm learning C++17, C++20
+* 🧠  I'm learning
 
 ### Skills
 
