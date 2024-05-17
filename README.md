@@ -1,6 +1,6 @@
 # 💫 About Me:
-🤝 I’m developing Full Stack Projects<br>🌱 I’m currently learning Cloud Development and Tools
-
+* 🌍  I'm based in Istanbul, Turkey
+* 🧠  I'm learning C++17, C++20, C++23
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbesirli) 
