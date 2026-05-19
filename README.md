@@ -3,10 +3,14 @@
 
 <p align="center"> I am interested in Backend, Frontend Programming. 
 </p>
-<p align="center">  My main language is Java and I develop backend projects using Spring Framework
-  for 2+ years. Also, I am interested in Frontend technologies. Therefore, I am using JavaScript and React Framework to develop frontend projects.
+<p align="center">  Backend-focused software developer with 3+ years of experience building scalable applications using Java and Spring Boot. I am passionate about designing microservices architectures, developing event-driven systems with Apache Kafka, and writing reliable software with JUnit-based testing.
 </p>
-<p align="center"> Other technologies and languages I use: React Native, Python, C++ and Microservices.
+<p align="center"> On the frontend side, I build modern and responsive interfaces using React and JavaScript, aiming to create clean and user-friendly applications that integrate seamlessly with backend services.
+</p>
+<p align="center">Tech Stack & Interests: Java, Spring Boot, Microservices Architecture, Apache Kafka, React, JavaScript, TypeScript, JUnit, Sonarqube
+</p>
+<p align="center">
+  I enjoy exploring distributed systems, improving system design, and building production-ready applications.
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mertbesirli&label=Profile%20views&color=0e75b6&style=flat" alt="mertbesirli" /> </p>
